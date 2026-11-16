@@ -12,7 +12,3 @@ This is an intentionally incomplete starter-stage scaffold based on the original
 ## Not implemented yet
 The model, service, and Swing UI classes are placeholders with TODO comments. The database's default status initialization is also intentionally incomplete because the full `Status` model has not been implemented.
 
-## Compile and run
-From the project folder:
-
-The application stores its data in `~/.bankflow/bankflow.dat`.
